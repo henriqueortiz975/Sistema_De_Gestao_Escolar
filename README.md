@@ -1,10 +1,5 @@
 # 📚 Sistema de Gestão Escolar
 
-## 1. Nome do Sistema
-
-**Sistema de Gestão Escolar**
-
----
 
 ## 2. Descrição do Problema
 
