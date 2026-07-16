@@ -127,7 +127,9 @@ Por meio desses diagramas, é possível compreender o comportamento dinâmico do
 ## Autor
 
 **Arthur da Silva Veeck**
+
 **Henrique Ibarra Ortiz Urbano**
+
 **Rafael Paffrath Pires**
 
 Disciplina: Análise de Sistemas
